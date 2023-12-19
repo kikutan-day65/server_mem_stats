@@ -3,18 +3,18 @@ Large Node
     node.available_mem=555555555555555mb
     node.assigned_mem=123456789kb
 Small Node
-    node.hostname=AAA1
+    node.hostname=AAA2
     node.available_mem=555555555555mb
     node.assigned_mem=537621548kb
 Tiny Node
-    node.hostname=AAA1
+    node.hostname=AAA3
     node.available_mem=555555555mb
     node.assigned_mem=334137kb
 Fast Node
-    node.hostname=AAA1
+    node.hostname=BBB1
     node.available_mem=555555555555mb
     node.assigned_mem=7435187kb
 Slow Node
-    node.hostname=AAA1
+    node.hostname=BBB2
     node.available_mem=55555555555mb
     node.assigned_mem=68739461997kb
