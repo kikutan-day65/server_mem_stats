@@ -1,20 +1,20 @@
 Large Node
     node.hostname = AAA1
-    node.available_mem = 555555555555555mb
+    node.available_mem = 55555555mb
     node.assigned_mem = 123456789kb
 Small Node
     node.hostname = AAA2
-    node.available_mem = 555555555555mb
-    node.assigned_mem = 537621548kb
+    node.available_mem = 4444444mb
+    node.assigned_mem = 43344558kb
 Tiny Node
     node.hostname = AAA3
-    node.available_mem = 555555555mb
-    node.assigned_mem = 334137kb
+    node.available_mem = 3333333mb
+    node.assigned_mem = 333223141kb
 Fast Node
     node.hostname = BBB1
-    node.available_mem = 555555555555mb
-    node.assigned_mem = 7435187kb
+    node.available_mem = 2222222mb
+    node.assigned_mem = 743223373kb
 Slow Node
     node.hostname = BBB2
-    node.available_mem = 55555555555mb
-    node.assigned_mem = 68739124kb
+    node.available_mem = 11111111mb
+    node.assigned_mem = 6872333kb
